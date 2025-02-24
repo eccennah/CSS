@@ -1,0 +1,16 @@
+.huckleberry{
+    position:absolute;
+    left:0;
+    width:100%;
+    height:50%;
+    background-color: white;
+}
+
+.wealth{
+    position:absolute;
+    left:0;
+    top:50%;
+    width: 100%;
+    height:50%;
+    background-color:gray
+}
